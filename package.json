@@ -1,0 +1,15 @@
+{
+  "name": "iot-mqtt",
+  "version": "1.0.0",
+  "description": "aplicacion iot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reinner daza",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6"
+  }
+}
